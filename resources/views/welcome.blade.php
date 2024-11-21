@@ -21,7 +21,7 @@
                     Dashboard
                 </a>
             @else
-                <div class="absoulte top-0 right-0 p-6">
+                <div class="absolute top-0 right-0 p-6">
                     <a href="{{ route('login') }}"
                         class="text-indigo-500 hover:text-indigo-800 mr-4">
                         Log in
